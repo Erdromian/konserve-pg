@@ -9,5 +9,4 @@
                  [com.layerware/hugsql "0.4.9"]
                  [to-jdbc-uri "0.1.0"]
                  [hugsql-adapter-case "0.1.0"]
-                 [io.replikativ/konserve "0.5.0"]])
-
+                 [io.replikativ/konserve "0.5.1"]])
