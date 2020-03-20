@@ -7,3 +7,5 @@ pom.xml.asc
 *.class
 /.lein-*
 /.nrepl-port
+/.idea/
+konserve-pg-1.iml
