@@ -1,6 +1,6 @@
 (defproject com.banzai/konserve-pg "0.1.3"
   :description "A PostgreSQL backend for konserve with HugSQL."
-  :url "https://github.com/retro/konserve-pg"
+  :url "https://github.com/Erdromian/konserve-pg"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0" :scope "provided"]
