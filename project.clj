@@ -1,4 +1,4 @@
-(defproject org.clojars.mihaelkonjevic/konserve-pg "0.1.3-SNAPSHOT"
+(defproject com.banzai/konserve-pg "0.1.3"
   :description "A PostgreSQL backend for konserve with HugSQL."
   :url "https://github.com/retro/konserve-pg"
   :license {:name "Eclipse Public License"
@@ -9,4 +9,4 @@
                  [com.layerware/hugsql "0.4.9"]
                  [to-jdbc-uri "0.1.0"]
                  [hugsql-adapter-case "0.1.0"]
-                 [io.replikativ/konserve "0.5.1"]])
+                 [io.replikativ/konserve "0.5.1"]]
